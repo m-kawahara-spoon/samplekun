@@ -1,10 +1,20 @@
+ html{
+ 	margin:0;
+	padding: 0;
+ }
+
 body{
-	width: 810px;
+	width: 1010px;
 	margin: auto;
 }
 
+.wrapper{
+ 	margin:0;
+	padding: 0;
+}
+
 h2{
-	font-size: 160%;
+	font-size: 180%;
 	color: black;
 	background: #f1f1f1;
 	padding: 20px 0px 20px 30px;
@@ -12,7 +22,7 @@ h2{
 	border-radius: 30px;
 }
 h3{
-	font-size: 120%;
+	font-size: 220%;
 	color: black;
 	border-left: 4px solid #f1f1f1;
 	padding: 10px 0px 10px 30px;
